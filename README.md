@@ -1,1 +1,1 @@
-"# CoronaVirus Tracker" 
+# CoronaVirus Tracker
